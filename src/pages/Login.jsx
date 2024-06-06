@@ -1,4 +1,4 @@
-import { Box, Button, Container, Flex, Heading, VStack } from "@chakra-ui/react";
+import { Box, Container, Flex, Heading, VStack } from "@chakra-ui/react";
 import { SupabaseAuthUI } from "../integrations/supabase/auth.jsx";
 import { useSupabaseAuth } from "../integrations/supabase/auth.jsx";
 import { useEffect } from "react";
